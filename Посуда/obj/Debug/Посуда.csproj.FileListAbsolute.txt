@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\bin\Debug\Посуда.exe.config
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\bin\Debug\Посуда.exe
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\bin\Debug\Посуда.pdb
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.LoginForm.resources
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.exe
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.pdb
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.AdminPanelForm.resources
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.MainForm.resources
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.CartForm.resources
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.OrdersForm.resources
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.CheckoutForm.resources
+C:\Users\Lenovo\Desktop\пм.05 кяшкина\приложение\Посуда\Посуда\obj\Debug\Посуда.EditProductsForm.resources

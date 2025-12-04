@@ -1,0 +1,30 @@
+## Visual Studio
+bin/
+obj/
+*.suo
+*.user
+*.csproj.user
+*.vs/
+.vs/
+
+## SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+## Временные файлы
+*.bak
+*.tmp
+*.cache
+
+## Пользовательские
+App.config
+/secrets/
+
+## Логи
+*.log
+
+## Папки проекта (оставь)
+# Database/  ← НЕ исключай, она нужна!
+# Images/    ← НЕ исключай, она нужна!
+# Forms/     ← НЕ исключай, она нужна!
